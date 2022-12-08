@@ -1,0 +1,1 @@
+Sitemap: //jekyll-pdf-embed-starter/sitemap.xml
